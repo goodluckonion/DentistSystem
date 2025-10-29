@@ -1,0 +1,30 @@
+C:\Users\HP\Desktop\كورس C#\Dental clinic\Dental clinic\bin\Debug\Dental clinic.exe.config
+C:\Users\HP\Desktop\كورس C#\Dental clinic\Dental clinic\bin\Debug\Dental clinic.exe
+C:\Users\HP\Desktop\كورس C#\Dental clinic\Dental clinic\bin\Debug\Dental clinic.pdb
+C:\Users\HP\Desktop\كورس C#\Dental clinic\Dental clinic\obj\Debug\Dental clinic.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\كورس C#\Dental clinic\Dental clinic\obj\Debug\Dental_clinic.Form1.resources
+C:\Users\HP\Desktop\كورس C#\Dental clinic\Dental clinic\obj\Debug\Dental_clinic.Properties.Resources.resources
+C:\Users\HP\Desktop\كورس C#\Dental clinic\Dental clinic\obj\Debug\Dental clinic.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\كورس C#\Dental clinic\Dental clinic\obj\Debug\Dental clinic.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\كورس C#\Dental clinic\Dental clinic\obj\Debug\Dental clinic.exe
+C:\Users\HP\Desktop\كورس C#\Dental clinic\Dental clinic\obj\Debug\Dental clinic.pdb
+C:\Users\HP\Desktop\كورس C#\Dental clinic\Dental clinic\obj\Debug\Dental_clinic.MainForm.resources
+C:\Users\HP\Desktop\كورس C#\Dental clinic\Dental clinic\obj\Debug\Dental_clinic.Patient.resources
+C:\Users\HP\Desktop\كورس C#\Dental clinic\Dental clinic\obj\Debug\Dental_clinic.Appointments.resources
+C:\Users\HP\Desktop\كورس C#\Dental clinic\Dental clinic\obj\Debug\Dental_clinic.Payment.resources
+C:\Users\HP\Desktop\كورس C#\Dental clinic\Dental clinic\obj\Debug\Dental_clinic.Reports.resources
+C:\Users\HP\Desktop\كورس C#\‏‏Dental clinic - نسخة\Dental clinic\bin\Debug\Dental clinic.exe.config
+C:\Users\HP\Desktop\كورس C#\‏‏Dental clinic - نسخة\Dental clinic\bin\Debug\Dental clinic.exe
+C:\Users\HP\Desktop\كورس C#\‏‏Dental clinic - نسخة\Dental clinic\bin\Debug\Dental clinic.pdb
+C:\Users\HP\Desktop\كورس C#\‏‏Dental clinic - نسخة\Dental clinic\obj\Debug\Dental clinic.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\كورس C#\‏‏Dental clinic - نسخة\Dental clinic\obj\Debug\Dental_clinic.Appointments.resources
+C:\Users\HP\Desktop\كورس C#\‏‏Dental clinic - نسخة\Dental clinic\obj\Debug\Dental_clinic.Form1.resources
+C:\Users\HP\Desktop\كورس C#\‏‏Dental clinic - نسخة\Dental clinic\obj\Debug\Dental_clinic.MainForm.resources
+C:\Users\HP\Desktop\كورس C#\‏‏Dental clinic - نسخة\Dental clinic\obj\Debug\Dental_clinic.Patient.resources
+C:\Users\HP\Desktop\كورس C#\‏‏Dental clinic - نسخة\Dental clinic\obj\Debug\Dental_clinic.Payment.resources
+C:\Users\HP\Desktop\كورس C#\‏‏Dental clinic - نسخة\Dental clinic\obj\Debug\Dental_clinic.Properties.Resources.resources
+C:\Users\HP\Desktop\كورس C#\‏‏Dental clinic - نسخة\Dental clinic\obj\Debug\Dental_clinic.Reports.resources
+C:\Users\HP\Desktop\كورس C#\‏‏Dental clinic - نسخة\Dental clinic\obj\Debug\Dental clinic.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\كورس C#\‏‏Dental clinic - نسخة\Dental clinic\obj\Debug\Dental clinic.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\كورس C#\‏‏Dental clinic - نسخة\Dental clinic\obj\Debug\Dental clinic.exe
+C:\Users\HP\Desktop\كورس C#\‏‏Dental clinic - نسخة\Dental clinic\obj\Debug\Dental clinic.pdb
